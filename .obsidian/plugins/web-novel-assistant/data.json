@@ -38,7 +38,9 @@
       "enabled": false
     }
   ],
-  "workspaceFolders": [],
+  "workspaceFolders": [
+    "911 Nashville/Rogue_Ryan/You have to choose"
+  ],
   "showFloatingNotes": true,
   "noteOpacity": 0.9,
   "idleTimeoutThreshold": 60000,
@@ -210,7 +212,7 @@
   },
   "enableHomepage": true,
   "openHomepageOnStartup": false,
-  "homepagePath": "",
+  "homepagePath": "911 Nashville/Rogue_Ryan/You have to choose/创作主页.md",
   "homepageWelcome": "",
   "heatmapStartDate": "",
   "heatmapEndDate": "",
@@ -243,7 +245,7 @@
   "debugMode": false,
   "proofreading": {
     "enabled": true,
-    "dictionaryPath": "校对词典",
+    "dictionaryPath": "911 Nashville/Rogue_Ryan/You have to choose/校对词典",
     "enableBuiltin": true,
     "enableUserDict": true,
     "enableSensitive": true,
