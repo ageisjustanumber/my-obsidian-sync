@@ -93,7 +93,7 @@
   "task": {
     "fileName": "限时任务"
   },
-  "eyeCareEnabled": false,
+  "eyeCareEnabled": true,
   "eyeCareColor": "#E8F5E9",
   "eyeCareDarkColor": "#202B24",
   "typography": {
@@ -242,14 +242,14 @@
   "advancedSearchQuery": "",
   "debugMode": false,
   "proofreading": {
-    "enabled": false,
-    "dictionaryPath": "",
+    "enabled": true,
+    "dictionaryPath": "校对词典",
     "enableBuiltin": true,
     "enableUserDict": true,
     "enableSensitive": true,
     "enableSynonyms": true,
-    "enableDeDiDe": false,
-    "enablePunctuation": false,
+    "enableDeDiDe": true,
+    "enablePunctuation": true,
     "enableGlobal": false,
     "ignoredWords": [],
     "ignoredContexts": {}
