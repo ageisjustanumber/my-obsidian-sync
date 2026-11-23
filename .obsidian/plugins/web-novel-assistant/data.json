@@ -1,5 +1,6 @@
 {
   "language": "auto",
+  "showNotices": false,
   "wordCountMethod": "standard",
   "includeFootnotes": false,
   "defaultGoal": 3000,
@@ -110,6 +111,7 @@
     "enableIndent": true,
     "indentSize": "2em",
     "lineHeight": 1.8,
+    "paragraphSpacingBefore": "0em",
     "paragraphSpacing": "0.5em",
     "letterSpacing": "0.05em",
     "maxLineWidth": "700px",
@@ -119,7 +121,6 @@
     "enableReadingModeCompat": false
   },
   "showMobileFloatingStats": false,
-  "enableMobileFocusTimer": false,
   "mobileFloatingStatsState": null,
   "enableStrictChapterMode": false,
   "strictChapterExceptions": [],
@@ -178,7 +179,20 @@
     "typewriterCenterOffset": 0,
     "typewriterUnfocusedOpacity": 0.4,
     "pomodoroEnabled": false,
-    "pomodoroInterval": 30
+    "pomodoroInterval": 30,
+    "manuscriptModeEnabled": false,
+    "workManuscriptPositions": {},
+    "mobileAuxPanel": {
+      "viewType": "immersive-chapter-status-view",
+      "isOpen": false,
+      "isMinimized": false,
+      "isLocked": false,
+      "isDocked": false,
+      "x": 16,
+      "y": 64,
+      "width": 300,
+      "height": 280
+    }
   },
   "obs": {
     "enableObs": false,
@@ -194,7 +208,7 @@
     "obsShowSessionWords": true,
     "obsShowSessionSpeed": false
   },
-  "enableHomepage": false,
+  "enableHomepage": true,
   "openHomepageOnStartup": false,
   "homepagePath": "",
   "homepageWelcome": "",
