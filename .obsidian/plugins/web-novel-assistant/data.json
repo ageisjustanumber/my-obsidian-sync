@@ -38,9 +38,7 @@
       "enabled": false
     }
   ],
-  "workspaceFolders": [
-    "911 Nashville/Rogue_Ryan"
-  ],
+  "workspaceFolders": [],
   "showFloatingNotes": true,
   "noteOpacity": 0.9,
   "idleTimeoutThreshold": 60000,
@@ -212,7 +210,7 @@
   },
   "enableHomepage": true,
   "openHomepageOnStartup": false,
-  "homepagePath": "911 Nashville/Rogue_Ryan/创作主页.md",
+  "homepagePath": "创作主页.md",
   "homepageWelcome": "",
   "heatmapStartDate": "",
   "heatmapEndDate": "",
@@ -245,7 +243,7 @@
   "debugMode": false,
   "proofreading": {
     "enabled": true,
-    "dictionaryPath": "911 Nashville/Rogue_Ryan/校对词典",
+    "dictionaryPath": "校对词典",
     "enableBuiltin": true,
     "enableUserDict": true,
     "enableSensitive": true,
