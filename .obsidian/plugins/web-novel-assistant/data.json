@@ -8,7 +8,7 @@
   "showGoal": false,
   "showExplorerCounts": true,
   "enableChapterTemplate": false,
-  "enableSmartChapterSort": false,
+  "enableSmartChapterSort": true,
   "chapterTemplatePath": "",
   "chapterTemplatePaths": [],
   "chapterNamingRules": [
@@ -30,7 +30,7 @@
     {
       "name": "英文章节 (Chapter 1, Ch.1)",
       "pattern": "^[Cc]h(?:apter)?\\.?\\s*(\\d+)",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "全能括号 ( (1)、【30】 )",
