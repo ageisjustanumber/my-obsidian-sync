@@ -127,7 +127,7 @@
   "enableWordCountGutter": false,
   "wordCountInterval": 2000,
   "enableSelectionWordCount": true,
-  "nextNoteThemeIndex": 0,
+  "nextNoteThemeIndex": 1,
   "stickyNoteAutoSave": true,
   "editorTypewriter": {
     "enabled": false,
