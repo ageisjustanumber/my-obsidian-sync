@@ -174,7 +174,7 @@
     "immersiveHideProperties": true,
     "immersiveNoteFontSize": 14,
     "workReferencePaths": {
-      "You have to choose": "You have to choose/大纲.md"
+      "You have to choose": "You have to choose/Chapter 1.md"
     },
     "typewriterEnabled": false,
     "immersiveShowTypewriterControls": true,
@@ -195,7 +195,7 @@
       "width": 300,
       "height": 280
     },
-    "lastReferenceFilePath": "You have to choose/大纲.md"
+    "lastReferenceFilePath": "You have to choose/Chapter 1.md"
   },
   "obs": {
     "enableObs": false,
