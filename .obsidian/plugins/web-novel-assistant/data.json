@@ -210,7 +210,7 @@
   },
   "enableHomepage": true,
   "openHomepageOnStartup": false,
-  "homepagePath": "创作主页.md",
+  "homepagePath": "",
   "homepageWelcome": "",
   "heatmapStartDate": "",
   "heatmapEndDate": "",
@@ -429,7 +429,7 @@
     "2026-11-24": {
       "focusMs": 0,
       "slackMs": 0,
-      "addedWords": -1,
+      "addedWords": 1,
       "hourlyFocus": [
         0,
         0,
