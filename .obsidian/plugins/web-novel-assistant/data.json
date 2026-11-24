@@ -485,5 +485,6 @@
     }
   },
   "notesData": [],
-  "corkboardSortMode": "lore"
+  "corkboardSortMode": "lore",
+  "loreBoardLayout": "table"
 }
