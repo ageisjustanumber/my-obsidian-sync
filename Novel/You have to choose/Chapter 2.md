@@ -39,6 +39,6 @@ Rogue明白面对Pharaoh需要尽可能满足他的高傲，于是附和说：�
 
 Pharaoh走到Rogue跟前，伸手解开Rogue的手铐。
 
-Rogue深吸一口气，在两只手获得自由的瞬间，抬手伸向Pharaoh的脖子，打算制服Pharaoh，最好能够让其失去意识。
+Rogue深吸一口气，在两只手获得自由的瞬间，将手伸向Pharaoh的脖子，打算制住Pharaoh的行动，最好能够让其失去意识。
 
-但早在Rogue的手够到Pharaoh之前，
+但早在Rogue的手够到Pharaoh之前，一阵剧烈的灼烧感冲击了Rogue的颈部，Rogue连发出痛呼的机会都没有，就被剥夺了呼吸和发声的能力。
