@@ -1,0 +1,5 @@
+{
+  "syncAfterEdit": 60,
+  "checkInterval": 60,
+  "conflicts": "keep-both"
+}
