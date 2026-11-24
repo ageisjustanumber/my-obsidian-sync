@@ -429,7 +429,7 @@
     "2026-11-24": {
       "focusMs": 0,
       "slackMs": 0,
-      "addedWords": 316,
+      "addedWords": 319,
       "hourlyFocus": [
         0,
         0,
@@ -485,6 +485,6 @@
     }
   },
   "notesData": [],
-  "corkboardSortMode": "timeline",
+  "corkboardSortMode": "journey",
   "loreBoardLayout": "table"
 }
