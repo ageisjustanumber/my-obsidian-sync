@@ -37,4 +37,6 @@ Rogue明白面对Pharaoh需要尽可能满足他的高傲，于是附和说：�
 
 （跳过中间先，我也不知道我要写啥，但是我下面想写Rogue偷袭Pharaoh）
 
-Pharaoh走到Rogue跟前，伸手
+Pharaoh走到Rogue跟前，伸手解开Rogue的手铐。
+
+Rogue深吸一口气，在两只手获得自由的瞬间，tao's
