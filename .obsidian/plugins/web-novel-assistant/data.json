@@ -173,7 +173,9 @@
     "immersiveShowCurrentTime": false,
     "immersiveHideProperties": true,
     "immersiveNoteFontSize": 14,
-    "workReferencePaths": {},
+    "workReferencePaths": {
+      "You have to choose": "You have to choose/大纲.md"
+    },
     "typewriterEnabled": false,
     "immersiveShowTypewriterControls": true,
     "typewriterCenterOffset": 0,
@@ -192,7 +194,8 @@
       "y": 64,
       "width": 300,
       "height": 280
-    }
+    },
+    "lastReferenceFilePath": "You have to choose/大纲.md"
   },
   "obs": {
     "enableObs": false,
@@ -427,9 +430,9 @@
       ]
     },
     "2026-11-24": {
-      "focusMs": 375997,
+      "focusMs": 436000,
       "slackMs": 9007,
-      "addedWords": 432,
+      "addedWords": 437,
       "hourlyFocus": [
         0,
         0,
@@ -444,7 +447,7 @@
         0,
         0,
         0,
-        375997,
+        436000,
         0,
         0,
         0,
