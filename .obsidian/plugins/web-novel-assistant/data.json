@@ -124,7 +124,7 @@
   "mobileFloatingStatsState": null,
   "enableStrictChapterMode": false,
   "strictChapterExceptions": [],
-  "enableWordCountGutter": false,
+  "enableWordCountGutter": true,
   "wordCountInterval": 2000,
   "enableSelectionWordCount": true,
   "nextNoteThemeIndex": 0,
