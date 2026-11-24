@@ -1,5 +1,5 @@
 ---
-status: 修稿中
+status: 已完稿
 lore:
   - Pharaoh×30
 ---
