@@ -499,10 +499,66 @@
         0,
         0
       ]
+    },
+    "2026-11-25": {
+      "focusMs": 0,
+      "slackMs": 0,
+      "addedWords": 2009,
+      "hourlyFocus": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hourlySlack": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     }
   },
   "notesData": [],
   "corkboardSortMode": "default",
-  "loreBoardLayout": "table",
-  "_savedImmersiveLayout": null
+  "loreBoardLayout": "table"
 }
