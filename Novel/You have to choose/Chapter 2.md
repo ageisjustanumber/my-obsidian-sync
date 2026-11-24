@@ -1,5 +1,5 @@
 ---
-status: 草稿
+status: 废稿
 lore:
   - Pharaoh×21
 ---
