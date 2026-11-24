@@ -2,6 +2,9 @@
 status: 已完稿
 lore:
   - Pharaoh×30
+synopsis: |-
+  Rogue因疏忽被Pharaoh掳走
+  Pharaoh说自己要给予Don和Rogue惩罚与救赎
 ---
 一切都发生得太快了。
 
