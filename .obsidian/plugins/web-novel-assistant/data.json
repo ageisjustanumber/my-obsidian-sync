@@ -229,8 +229,8 @@
     "Novel/You have to choose/设定": 1000,
     "Novel/You have to choose/__CHAPTER_BLOCK__": 2000,
     "Novel/You have to choose/大纲.md": 3000,
-    "Novel/You have to choose/未命名.md": 4000,
-    "Novel/You have to choose/作品信息.md": 5000
+    "Novel/You have to choose/作品信息.md": 5000,
+    "Novel/You have to choose/Chapter 2.md": 4000
   },
   "workbenchBoardVisibility": {
     "default": true,
