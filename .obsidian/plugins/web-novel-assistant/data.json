@@ -178,7 +178,7 @@
     "immersiveHideProperties": true,
     "immersiveNoteFontSize": 14,
     "workReferencePaths": {
-      "Novel/You have to choose": "Novel/You have to choose/Chapter 1.md"
+      "Novel/You have to choose": "Novel/You have to choose/Chapter 2-废稿.md"
     },
     "typewriterEnabled": false,
     "immersiveShowTypewriterControls": true,
@@ -199,7 +199,7 @@
       "width": 300,
       "height": 280
     },
-    "lastReferenceFilePath": "Novel/You have to choose/Chapter 1.md"
+    "lastReferenceFilePath": "Novel/You have to choose/Chapter 2-废稿.md"
   },
   "obs": {
     "enableObs": false,
@@ -444,9 +444,9 @@
       ]
     },
     "2026-11-24": {
-      "focusMs": 1623058,
+      "focusMs": 1683046,
       "slackMs": 981967,
-      "addedWords": 486,
+      "addedWords": 490,
       "hourlyFocus": [
         0,
         0,
@@ -462,7 +462,7 @@
         0,
         0,
         1092022,
-        531036,
+        591024,
         0,
         0,
         0,
