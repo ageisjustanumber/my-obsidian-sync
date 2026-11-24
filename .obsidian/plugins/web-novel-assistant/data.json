@@ -1,7 +1,7 @@
 {
   "language": "auto",
   "showNotices": false,
-  "wordCountMethod": "standard",
+  "wordCountMethod": "obsidian",
   "includeFootnotes": false,
   "defaultGoal": 3000,
   "dailyGoal": 1500,
@@ -206,7 +206,7 @@
     "obsShowTodayWords": true,
     "obsShowDailyGoal": false,
     "obsShowSessionWords": true,
-    "obsShowSessionSpeed": false
+    "obsShowSessionSpeed": true
   },
   "enableHomepage": true,
   "openHomepageOnStartup": false,
@@ -429,7 +429,7 @@
     "2026-11-24": {
       "focusMs": 0,
       "slackMs": 0,
-      "addedWords": 219,
+      "addedWords": 245,
       "hourlyFocus": [
         0,
         0,
