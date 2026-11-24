@@ -161,7 +161,7 @@ Rogue感到自己仿佛被推下深渊。
 
 只见Pharaoh又按了几下按键，显示器上的照片切换成了另一个年轻人。那是最近几天一直占据Rogue脑海的身影。
 
-Ryan在现场拿着工具作业。Ryan在消防局里整备器械。Ryan和Sam在停车场。Ryan从家中走出。Ryan在Rogue公寓，两个人靠着吧台聊天。Ryan和Sam走进了Don的房子。
+Ryan在现场拿着工具作业。Ryan在消防局里整备器械。Ryan和Sam在停车场。Ryan从家中走出。Ryan在Rogue公寓，两个人靠着岛台聊天。
 
 Rogue听到Don倒吸了一口气。
 
