@@ -149,9 +149,13 @@
     ],
     "immersiveTopSize": 20,
     "immersiveBottomSize": 20,
-    "immersiveLeftSize": 20,
-    "immersiveRightSize": 20,
-    "immersiveTopInternalSizes": [],
+    "immersiveLeftSize": 14,
+    "immersiveRightSize": 33,
+    "immersiveTopInternalSizes": [
+      33,
+      33,
+      33
+    ],
     "immersiveBottomInternalSizes": [],
     "immersiveLeftInternalSizes": [],
     "immersiveRightInternalSizes": [],
@@ -440,9 +444,9 @@
       ]
     },
     "2026-11-24": {
-      "focusMs": 1401039,
-      "slackMs": 965972,
-      "addedWords": 470,
+      "focusMs": 1503045,
+      "slackMs": 981967,
+      "addedWords": 473,
       "hourlyFocus": [
         0,
         0,
@@ -458,7 +462,7 @@
         0,
         0,
         1092022,
-        309017,
+        411023,
         0,
         0,
         0,
@@ -484,7 +488,7 @@
         0,
         0,
         262993,
-        702979,
+        718974,
         0,
         0,
         0,
@@ -500,5 +504,5 @@
   "notesData": [],
   "corkboardSortMode": "default",
   "loreBoardLayout": "table",
-  "_savedImmersiveLayout": null
+  "_savedImmersiveLayout": "{\"main\":{\"id\":\"afae7e9c547ce2af\",\"type\":\"split\",\"children\":[{\"id\":\"044e740d5f85eb12\",\"type\":\"tabs\",\"children\":[{\"id\":\"5606f74995c9ebf6\",\"type\":\"leaf\",\"state\":{\"type\":\"markdown\",\"state\":{\"file\":\"创作主页.md\",\"mode\":\"preview\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"创作主页\"}},{\"id\":\"4777484241612e05\",\"type\":\"leaf\",\"state\":{\"type\":\"webnovel-workbench\",\"state\":{\"currentBookPath\":\"Novel/You have to choose\"},\"icon\":\"laptop\",\"title\":\"写作工作台\"}},{\"id\":\"b31900fd4367bdc6\",\"type\":\"leaf\",\"state\":{\"type\":\"markdown\",\"state\":{\"file\":\"Novel/You have to choose/Chapter 2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 2\"}},{\"id\":\"2af9526f9d5fecd7\",\"type\":\"leaf\",\"state\":{\"type\":\"markdown\",\"state\":{\"file\":\"Novel/You have to choose/Chapter 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Chapter 1\"}},{\"id\":\"fafa99bf66109abe\",\"type\":\"leaf\",\"state\":{\"type\":\"markdown\",\"state\":{\"file\":\"Novel/You have to choose/大纲.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"大纲\"}}],\"currentTab\":2}],\"direction\":\"vertical\"},\"left\":{\"id\":\"ed9653db9b91274a\",\"type\":\"split\",\"children\":[{\"id\":\"7638174f5f8eaaa2\",\"type\":\"tabs\",\"children\":[{\"id\":\"92d89f55d51f1df8\",\"type\":\"leaf\",\"state\":{\"type\":\"file-explorer\",\"state\":{\"sortOrder\":\"alphabetical\",\"autoReveal\":false,\"showSearch\":false,\"searchQuery\":\"\"},\"icon\":\"lucide-folder-closed\",\"title\":\"文件列表\"}},{\"id\":\"458f82e3c49ddbbb\",\"type\":\"leaf\",\"state\":{\"type\":\"search\",\"state\":{\"query\":\"\",\"matchingCase\":false,\"explainSearch\":false,\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\"},\"icon\":\"lucide-search\",\"title\":\"搜索\"}},{\"id\":\"5c1ea9f71fa1424b\",\"type\":\"leaf\",\"state\":{\"type\":\"bookmarks\",\"state\":{\"showSearch\":false,\"searchQuery\":\"\"},\"icon\":\"lucide-bookmark\",\"title\":\"书签\"}}]}],\"direction\":\"horizontal\",\"width\":220.3571434020996},\"right\":{\"id\":\"cba760a7c3d2466f\",\"type\":\"split\",\"children\":[{\"id\":\"a192209f2e1ef3e3\",\"type\":\"tabs\",\"children\":[{\"id\":\"7a698d9e71d08190\",\"type\":\"leaf\",\"state\":{\"type\":\"backlink\",\"state\":{\"file\":\"欢迎.md\",\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true},\"icon\":\"links-coming-in\",\"title\":\"反向链接\"}},{\"id\":\"20f02b43fb20a6f8\",\"type\":\"leaf\",\"state\":{\"type\":\"outgoing-link\",\"state\":{\"file\":\"欢迎.md\",\"linksCollapsed\":false,\"unlinkedCollapsed\":true},\"icon\":\"links-going-out\",\"title\":\"出链\"}},{\"id\":\"c241093b6062a285\",\"type\":\"leaf\",\"state\":{\"type\":\"tag\",\"state\":{\"sortOrder\":\"frequency\",\"useHierarchy\":true,\"showSearch\":false,\"searchQuery\":\"\"},\"icon\":\"lucide-tags\",\"title\":\"标签\"}},{\"id\":\"a940d440fe46187c\",\"type\":\"leaf\",\"state\":{\"type\":\"all-properties\",\"state\":{\"sortOrder\":\"frequency\",\"showSearch\":false,\"searchQuery\":\"\"},\"icon\":\"lucide-archive\",\"title\":\"添加笔记属性\"}},{\"id\":\"08f7edd02f85db00\",\"type\":\"leaf\",\"state\":{\"type\":\"outline\",\"state\":{\"file\":\"欢迎.md\",\"followCursor\":false,\"showSearch\":false,\"searchQuery\":\"\"},\"icon\":\"lucide-list\",\"title\":\"大纲\"}}]}],\"direction\":\"horizontal\",\"width\":300,\"collapsed\":true},\"left-ribbon\":{\"hiddenItems\":{\"easy-git-sync:Syncing with ageisjustanumber/my-obsidian-sync on GitHub\":false,\"switcher:打开快速切换\":false,\"graph:查看关系图谱\":false,\"canvas:新建白板\":false,\"daily-notes:打开/创建今天的日记\":false,\"templates:插入模板\":false,\"command-palette:打开命令面板\":false,\"bases:新建数据库\":false,\"web-novel-assistant:打开/关闭写作实时状态面板\":false,\"web-novel-assistant:打开/关闭伏笔面板\":false,\"web-novel-assistant:打开/关闭时间线面板\":false,\"web-novel-assistant:打开写作工作台面板\":false,\"web-novel-assistant:进入/退出全屏沉浸写作模式\":false,\"web-novel-assistant:新建空白悬浮便签\":false}},\"active\":\"b31900fd4367bdc6\"}"
 }
