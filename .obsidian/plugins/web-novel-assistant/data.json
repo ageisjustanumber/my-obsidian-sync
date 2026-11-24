@@ -174,7 +174,7 @@
     "immersiveHideProperties": true,
     "immersiveNoteFontSize": 14,
     "workReferencePaths": {
-      "You have to choose": "You have to choose/Chapter 1.md"
+      "Novel/You have to choose": "Novel/You have to choose/Chapter 1.md"
     },
     "typewriterEnabled": false,
     "immersiveShowTypewriterControls": true,
@@ -195,7 +195,7 @@
       "width": 300,
       "height": 280
     },
-    "lastReferenceFilePath": "You have to choose/Chapter 1.md"
+    "lastReferenceFilePath": "Novel/You have to choose/Chapter 1.md"
   },
   "obs": {
     "enableObs": false,
@@ -222,11 +222,15 @@
   },
   "homepagePinPosition": "top",
   "customSortOrder": {
-    "You have to choose/设定": 1000,
-    "You have to choose/__CHAPTER_BLOCK__": 2000,
-    "You have to choose/大纲.md": 3000,
-    "You have to choose/未命名.md": 4000,
-    "You have to choose/作品信息.md": 5000
+    "校对词典": 1000,
+    "创作主页.md": 2000,
+    "Novel": 3000,
+    "Novel/You have to choose": 4000,
+    "Novel/You have to choose/设定": 1000,
+    "Novel/You have to choose/__CHAPTER_BLOCK__": 2000,
+    "Novel/You have to choose/大纲.md": 3000,
+    "Novel/You have to choose/未命名.md": 4000,
+    "Novel/You have to choose/作品信息.md": 5000
   },
   "workbenchBoardVisibility": {
     "default": true,
