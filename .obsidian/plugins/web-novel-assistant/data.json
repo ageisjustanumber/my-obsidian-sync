@@ -178,7 +178,7 @@
     "immersiveHideProperties": true,
     "immersiveNoteFontSize": 14,
     "workReferencePaths": {
-      "Novel/You have to choose": "Novel/You have to choose/Chapter 1.md"
+      "Novel/You have to choose": "Novel/You have to choose/Chapter 2-废稿.md"
     },
     "typewriterEnabled": false,
     "immersiveShowTypewriterControls": true,
@@ -199,7 +199,7 @@
       "width": 300,
       "height": 280
     },
-    "lastReferenceFilePath": "Novel/You have to choose/Chapter 1.md"
+    "lastReferenceFilePath": "Novel/You have to choose/Chapter 2-废稿.md"
   },
   "obs": {
     "enableObs": false,
