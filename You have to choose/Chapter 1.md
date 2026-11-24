@@ -163,6 +163,8 @@ Rogue感到自己仿佛被推下深渊。
 
 Ryan在现场拿着工具作业。Ryan在消防局里整备器械。Ryan和Sam在停车场。Ryan和Sam走进Don的房子。Ryan乘上Rogue的车。Ryan在Rogue公寓，两个人靠着岛台聊天。
 
+Ryan和James一样，浑然不知自己的一举一动早已被收进相机，
+
 Rogue听到Don倒吸了一口气。
 
 Pharaoh早就盯上他们了。
